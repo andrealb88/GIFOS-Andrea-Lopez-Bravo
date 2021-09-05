@@ -8,11 +8,11 @@ export const Header = () => {
   return (
     <header className="header flex-row">
       {theme === "light" ? (
-        <img className="logo" src="./public/images/logo-desktop.svg" alt="logo" />
+        <img className="logo" src="./images/logo-desktop.svg" alt="logo" />
       ) : (
         <img
           className="logo"
-          src="./public/images/logo-mobile-modo-noct.svg"
+          src="./images/logo-mobile-modo-noct.svg"
           alt="logo"
         />
       )}

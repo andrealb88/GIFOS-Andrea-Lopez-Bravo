@@ -7,7 +7,7 @@ export const Nav = () => {
       <h1 className="principal-title violet-text">
         ¡Inspirate y busca los mejores GIFS!
       </h1>
-      <img className="center" src="./public/images/ilustra_header.svg" alt="people" />
+      <img className="center" src="./images/ilustra_header.svg" alt="people" />
       <ButtonSearch />
     </nav>
   );
