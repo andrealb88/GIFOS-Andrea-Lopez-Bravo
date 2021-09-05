@@ -1,4 +1,4 @@
-import "./Button.css";
+import "./button.css";
 import React from "react";
 import { AppContext } from "../contextProvider/contextApp";
 
