@@ -1,5 +1,5 @@
 import "./Result.css";
-import { Card } from "../card/cardX";
+import { Card } from "../card/card";
 import { Notification } from "../notification/notification";
 import { AppContext } from "../contextProvider/contextApp";
 import React from "react";
