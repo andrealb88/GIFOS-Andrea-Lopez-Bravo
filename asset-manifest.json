@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GIFOS-Andrea-Lopez-Bravo/static/css/main.3ddae270.chunk.css",
+    "main.js": "/GIFOS-Andrea-Lopez-Bravo/static/js/main.9079c557.chunk.js",
+    "main.js.map": "/GIFOS-Andrea-Lopez-Bravo/static/js/main.9079c557.chunk.js.map",
+    "runtime-main.js": "/GIFOS-Andrea-Lopez-Bravo/static/js/runtime-main.69d92e76.js",
+    "runtime-main.js.map": "/GIFOS-Andrea-Lopez-Bravo/static/js/runtime-main.69d92e76.js.map",
+    "static/js/2.5a724172.chunk.js": "/GIFOS-Andrea-Lopez-Bravo/static/js/2.5a724172.chunk.js",
+    "static/js/2.5a724172.chunk.js.map": "/GIFOS-Andrea-Lopez-Bravo/static/js/2.5a724172.chunk.js.map",
+    "static/js/3.3b5d9db9.chunk.js": "/GIFOS-Andrea-Lopez-Bravo/static/js/3.3b5d9db9.chunk.js",
+    "static/js/3.3b5d9db9.chunk.js.map": "/GIFOS-Andrea-Lopez-Bravo/static/js/3.3b5d9db9.chunk.js.map",
+    "index.html": "/GIFOS-Andrea-Lopez-Bravo/index.html",
+    "static/css/main.3ddae270.chunk.css.map": "/GIFOS-Andrea-Lopez-Bravo/static/css/main.3ddae270.chunk.css.map",
+    "static/js/2.5a724172.chunk.js.LICENSE.txt": "/GIFOS-Andrea-Lopez-Bravo/static/js/2.5a724172.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69d92e76.js",
+    "static/js/2.5a724172.chunk.js",
+    "static/css/main.3ddae270.chunk.css",
+    "static/js/main.9079c557.chunk.js"
+  ]
+}
