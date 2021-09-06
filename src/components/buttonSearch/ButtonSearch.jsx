@@ -54,7 +54,7 @@ export const ButtonSearch = () => {
       >
         <img
           className="center icon-search"
-          src="./images/icon-search-mod-noc.svg"
+          src="./images/icon-search-mod-noc.png"
           alt="icono"
         />
       </button>
